@@ -1,0 +1,10 @@
+#cajita{
+    border: 1px solid gray;
+    padding: 1em;
+    border-radius: 10px;
+    justify-content: center;
+}
+h1,p{
+    text-align: center;
+    
+}
